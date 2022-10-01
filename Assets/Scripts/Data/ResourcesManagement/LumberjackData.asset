@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dec78d57d9c73441b7bccc7c6a29663, type: 3}
+  m_Name: LumberjackData
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 5238852310875058564, guid: 23c579895098cdc4787559236d0f4e1e, type: 3}
+  buildCost:
+  - resourceType: 3
+    resourceAmount: 50
+  - resourceType: 1
+    resourceAmount: 15
+  producedGoods:
+  - resourceType: 1
+    resourceAmount: 50
